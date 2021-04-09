@@ -84,12 +84,12 @@
  "tilesets":[
         {
          "firstgid":1,
-         "source":"kitchen\/32x32Sci-Fitileset_tileset.tsx"
+         "source":"..\/kitchen\/32x32Sci-Fitileset_tileset.tsx"
         }, 
         {
          "columns":16,
          "firstgid":513,
-         "image":"tilesets\/house_inside_1.png",
+         "image":"..\/tilesets\/house_inside_1.png",
          "imageheight":448,
          "imagewidth":512,
          "margin":0,
@@ -101,12 +101,12 @@
         }, 
         {
          "firstgid":737,
-         "source":"kitchen\/tilesets_deviant_milkian_1.tsx"
+         "source":"..\/kitchen\/tilesets_deviant_milkian_1.tsx"
         }, 
         {
          "columns":4,
          "firstgid":993,
-         "image":"workadventure\/tilesets\/wa-matekiste_matekiste.png",
+         "image":"..\/workadventure\/tilesets\/wa-matekiste_matekiste.png",
          "imageheight":96,
          "imagewidth":128,
          "margin":0,
@@ -119,7 +119,7 @@
         {
          "columns":32,
          "firstgid":1005,
-         "image":"workadventure\/tilesets\/Atlas2_obj_misk_atlas.png",
+         "image":"..\/workadventure\/tilesets\/Atlas2_obj_misk_atlas.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -132,7 +132,7 @@
         {
          "columns":48,
          "firstgid":2029,
-         "image":"tilesets\/atlas_32x.png",
+         "image":"..\/tilesets\/atlas_32x.png",
          "imageheight":512,
          "imagewidth":1536,
          "margin":0,
@@ -145,7 +145,7 @@
         {
          "columns":21,
          "firstgid":2797,
-         "image":"tilesets\/FOOD.png",
+         "image":"..\/tilesets\/FOOD.png",
          "imageheight":807,
          "imagewidth":702,
          "margin":0,
@@ -158,7 +158,7 @@
         {
          "columns":2,
          "firstgid":3322,
-         "image":"tilesets\/FOOD.png",
+         "image":"..\/tilesets\/FOOD.png",
          "imageheight":807,
          "imagewidth":702,
          "margin":0,
@@ -171,7 +171,7 @@
         {
          "columns":21,
          "firstgid":3338,
-         "image":"tilesets\/FOOD.png",
+         "image":"..\/tilesets\/FOOD.png",
          "imageheight":807,
          "imagewidth":702,
          "margin":1,
