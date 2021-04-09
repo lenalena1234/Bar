@@ -81,8 +81,17 @@
  "tileheight":32,
  "tilesets":[
         {
+         "columns":32,
          "firstgid":1,
-         "source":"32x32Sci-Fitileset_tileset.tsx"
+         "image":"32x32Sci-Fitileset_tileset.png",
+         "imageheight":512,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"32x32Sci-Fitileset_tileset",
+         "spacing":0,
+         "tilecount":512,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":16,
@@ -98,8 +107,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":737,
-         "source":"tilesets_deviant_milkian_1.tsx"
+         "image":"tilesets_deviant_milkian_1.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"tilesets_deviant_milkian_1",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":4,
@@ -167,8 +185,18 @@
          "tilewidth":32
         }, 
         {
+         "columns":17,
          "firstgid":3826,
-         "source":"tileset_piano.tsx"
+         "image":"piano.png",
+         "imageheight":768,
+         "imagewidth":768,
+         "margin":0,
+         "name":"piano",
+         "spacing":0,
+         "tilecount":289,
+         "tileheight":45,
+         "tilewidth":45,
+         "transparentcolor":"#feffff"
         }],
  "tilewidth":32,
  "type":"map",
