@@ -64,9 +64,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https://www.youtube.com/watch?v=2-cN-QnTg-Q&list=PLT8SgOqpYSMW4fiBs0RIzhLN_t946-Sz9"
+                 "value":"https://www.youtube.com/embed/2-cN-QnTg-Q"
                 }],
          "type":"tilelayer",
          "visible":true,
